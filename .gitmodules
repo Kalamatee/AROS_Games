@@ -2,3 +2,11 @@
 	path = FPS/adoom3
 	url = https://github.com/Kalamatee/dhewm3.git
 	branch = ADoom3
+[submodule "RPG/flare/flare-game"]
+	path = RPG/flare/flare-game
+	url = https://github.com/Kalamatee/flare-game.git
+	branch = AROS
+[submodule "RPG/flare/flare-engine"]
+	path = RPG/flare/flare-engine
+	url = https://github.com/Kalamatee/flare-engine.git
+	branch = AROS
