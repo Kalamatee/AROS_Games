@@ -1,0 +1,4 @@
+[submodule "FPS/adoom3"]
+	path = FPS/adoom3
+	url = https://github.com/Kalamatee/dhewm3.git
+	branch = ADoom3
